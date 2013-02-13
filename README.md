@@ -26,6 +26,7 @@ This will wrap each video in a `div.fluid-width-video-wrapper` and apply the nec
 <tr><td>Blip.tv</td><td>Y</td></tr>
 <tr><td>Viddler</td><td>Y</td></tr>
 <tr><td>Kickstarter</td><td> Y</td></tr>
+<tr><td>Vkontakte</td><td> Y</td></tr>
 </table>
 
 ## Add Your Own Video Vendor
