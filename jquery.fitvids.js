@@ -53,6 +53,7 @@
         "iframe[src*='www.youtube.com']",
         "iframe[src*='www.youtube-nocookie.com']",
         "iframe[src*='http://vk.com']",
+        "iframe[src*='maps.google.com']",
         "iframe[src*='www.kickstarter.com']",
         "object",
         "embed"
